@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "abc",
+      "last_name": "xyz",
+      "email": "abc@example.com",
+      "password": "admin",
+      "isLoggedIn": false
+    },
+    {
+      "fname": "ubaid",
+      "lname": "uz zaman",
+      "email": "wahidshams@gmail.com",
+      "password": "admin@123",
+      "isLoggedIn": false,
+      "id": 2
+    },
+    {
+      "fname": "mohammed",
+      "lname": "musaib",
+      "email": "musaibahmed99@gmail.com",
+      "password": "Musaib@123",
+      "isLoggedIn": false,
+      "id": 3
+    },
+    {
+      "fname": "John",
+      "lname": "wick",
+      "email": "johnwick@gmail.com",
+      "password": "",
+      "isLoggedIn": false,
+      "id": 4
+    },
+    {
+      "fname": "wahid",
+      "lname": "ul zaman",
+      "email": "",
+      "password": "12345",
+      "isLoggedIn": false,
+      "id": 5
+    },
+    {
+      "fname": "shubam",
+      "lname": "sharma",
+      "email": "ssshubham@gmail.com",
+      "password": "123456",
+      "isLoggedIn": false,
+      "id": 6
+    }
+  ]
+}
